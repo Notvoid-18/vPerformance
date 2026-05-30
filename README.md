@@ -79,7 +79,7 @@ Java 21 Required
 
 ## 📸 Screenshots
 
-### How it look likes
+### How it looks likes
 ![chat](sample1.png)
 
 ---
