@@ -75,6 +75,15 @@ Java 21 Required
 3. Restart the server.
 4. Use `/vpef`.
 
+---
+
+## 📸 Screenshots
+
+### How it look likes
+![chat](sample1.png)
+
+---
+
 
 ## Developer
 
